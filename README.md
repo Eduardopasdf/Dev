@@ -8,7 +8,8 @@ Projeto 2: Gerador de senha simples e seguro feito com HTML, CSS e JavaScript. P
 
 Sinta-se à vontade para explorar os projetos e entrar em contato comigo se tiver alguma dúvida ou sugestão. Obrigado por visitar!
 
-Projeto 3: 
+Projeto 3: Todo List
+O projeto Todo consiste em uma aplicação web simples para gerenciamento de tarefas. Foi desenvolvido usando HTML, CSS e JavaScript, seguindo as melhores práticas de programação. Inclui classes para representar tarefas a fazer (TODOs) e lembretes para eventos futuros, com opções de notificação.
 
 Contato     Telefone (41 988985601), Email [edugouveia3@gmail.com].
 
