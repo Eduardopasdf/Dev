@@ -1,0 +1,11 @@
+2024-07-11 10:00:00 INFO  Server started
+2024-07-11 10:01:00 ERROR DatabaseConnectionFailed Could not connect to the database
+2024-07-11 10:02:00 INFO  User logged in
+2024-07-11 10:03:00 ERROR NullPointerException Null pointer exception occurred
+2024-07-11 10:04:00 WARN  Disk space low
+2024-07-11 10:05:00 ERROR DatabaseConnectionFailed Database connection lost
+2024-07-11 10:06:00 INFO  Server running
+2024-07-11 10:07:00 ERROR IOException Failed to read file
+2024-07-11 10:08:00 INFO  User logged out
+2024-07-11 10:09:00 ERROR IOException Error writing to file
+2024-07-11 10:10:00 INFO  Server stopped
